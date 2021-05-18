@@ -1,5 +1,0 @@
-projectKey=org.sonarqube:sonarqube-scanner
-serverUrl=http://34.207.181.232:9000
-dashboardUrl=http://34.207.181.232:9000/dashboard/index/org.sonarqube:sonarqube-scanner
-ceTaskId=AXl9y6MmeBB7h6eR4eCT
-ceTaskUrl=http://34.207.181.232:9000/api/ce/task?id=AXl9y6MmeBB7h6eR4eCT
